@@ -6,7 +6,7 @@
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
     "resetOnSubmit": true,
-    "leftColumn": 4,
+    "leftColumn": 46,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -45,7 +45,7 @@
     "key": "fuv5tozolm",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 24,
+    "rightColumn": 64,
     "widgetId": "gpotdbnlau",
     "minWidth": 450,
     "label": "Label",
